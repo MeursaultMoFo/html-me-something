@@ -1,0 +1,57 @@
+
+body {
+    background: #ffe486;
+    font-family: Palatino Linotype;
+    font-size: 80%;
+}
+
+main {
+    background: #d8beeb;
+    
+    padding: 1px;
+}
+
+div.container {
+    padding:10px;
+}
+
+div.page {
+    display: flex;
+    align-items: center;
+}
+
+div.box {
+    margin-left: auto;
+	margin-right: auto;
+    max-width: 70%;
+    max-height: 500px;
+    float: none;
+}
+
+div.special {
+    display: flex;
+    align-items: center;
+    padding:10px;
+}
+
+article {
+    color: rgb(83, 83, 83);
+    background: #bd95dc;
+    padding:10px;
+}
+
+img {
+    margin: 3px;
+}
+
+footer {
+    color: rgb(83, 83, 83);
+}
+
+header.site {
+    text-align: right;
+}
+
+footer.site {
+    text-align: right;
+}
