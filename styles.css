@@ -7,7 +7,6 @@ body {
 
 main {
     background: #d8beeb;
-    
     padding: 1px;
 }
 
@@ -28,7 +27,7 @@ div.box {
     float: none;
 }
 
-div.special {
+#special {
     display: flex;
     align-items: center;
     padding:10px;
